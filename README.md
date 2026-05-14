@@ -147,5 +147,4 @@ Definition (1 line) + Key Point / Example (1-2 lines)
 
 ---
 
-## ⚡ Quick Start
 

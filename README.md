@@ -149,4 +149,3 @@ Definition (1 line) + Key Point / Example (1-2 lines)
 
 ## ⚡ Quick Start
 
-> 👉 Shuru karo: **[Unit 1 → UNIT-OVERVIEW.md](./unit-1-introduction/UNIT-OVERVIEW.md)**
